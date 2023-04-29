@@ -319,3 +319,13 @@ footer{
     align-items: flex-start;
 }
  
+/* subfooter  */
+.subfooter{
+    background-color: #b9cde4;
+    padding: var(--padding-inline-section);
+}
+
+.subfooter-container{
+    justify-content: center;
+    gap: 30px;
+}
