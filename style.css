@@ -106,6 +106,10 @@ ul{
 
 /* top-banner */
 
+.center{
+    text-align:center;
+}
+
 .banner-text{
     color:white;
     padding:15px 30px ;
